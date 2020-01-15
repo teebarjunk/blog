@@ -6,3 +6,18 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+#  - jekyll-algolia
+minimal_mistakes_skin: "dark" # "default" # "air", "aqua", "contrast",
+title: "The"
+subtitle: "No"
+breadcrumbs: true
+search: true
+#search_provider: algolia
+twitter:
+  username: "test"
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
